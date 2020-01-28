@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Age App</string>
+    <string name="insert_your_age">Insert your age!</string>
+    <string name="insert_your_dob">Insert your DOB</string>
+    <string name="insert_dob">insert dob</string>
+    <string name="date">date</string>
+    <string name="click">click</string>
+    <string name="your_age_is">Your age is</string>
+    <string name="get_my_age">get my age</string>
+</resources>
